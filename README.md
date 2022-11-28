@@ -9,7 +9,7 @@ Two eyes will follow your cursor along the screen as you move. No delay! this ey
 #How to run
 
 Download the full project, if you keep the files in the same folder, just drop the index.html in your browser to start the game.
-If you change the location of the files or if you want to change their names, remember to set the right path and file name in the <script></script> and <link> tags in index.html for the .js file and .css file respectively.
+If you change the location of the files or if you want to change their names, remember to set the right path and file name in the <script></script> and < link > tags in index.html for the .js file and .css file respectively.
 
 #Future improvements!
 
